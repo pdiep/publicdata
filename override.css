@@ -41,7 +41,7 @@ body#com-atlassian-confluence.theme-documentation{
     transition: padding .25s;
 	}
 	
- .submit #com-atlassian-confluence.theme-documentation{
+  body#com-atlassian-confluence.theme-documentation submit{
 	margin-left:15px;	
 	background-color: #68b12f;
     background: -webkit-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
